@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableEditorMDI", "TableEditorMDI\TableEditorMDI.csproj", "{10B04F4C-DDF9-4E9E-BB82-26D85AE7063C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B04F4C-DDF9-4E9E-BB82-26D85AE7063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B04F4C-DDF9-4E9E-BB82-26D85AE7063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B04F4C-DDF9-4E9E-BB82-26D85AE7063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B04F4C-DDF9-4E9E-BB82-26D85AE7063C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1C7681-F6B9-447E-9929-6B5CD5876AAD}
+	EndGlobalSection
+EndGlobal
